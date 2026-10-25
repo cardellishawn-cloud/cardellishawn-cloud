@@ -11,5 +11,7 @@ I build software for the trades. I spent 12 years in construction first, so I kn
 **Stack:** JavaScript/TypeScript, Python, C#, SQL · React, Node/Express, React Native · PostgreSQL/Supabase · Claude API, xAI · Twilio, Stripe · Vercel, Railway, Cloudflare
 
 **Portfolio:** [shawn-portfolio.cardellishawn1.workers.dev](https://shawn-portfolio.cardellishawn1.workers.dev)
+
 **Email:** cardellishawn1@gmail.com
+
 **Based in** Knoxville, TN · open to remote
